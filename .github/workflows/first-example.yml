@@ -15,8 +15,8 @@ jobs:
                ls -ltra
                cat README.md
         
-        - name: Generate ascii artwork
-          run: cowsay -f dragon "run for cover, i am fragon"  >> dragon.txt       
+       # - name: Generate ascii artwork
+       #   run: cowsay -f dragon "run for cover, i am fragon"  >> dragon.txt       
 
 
 
